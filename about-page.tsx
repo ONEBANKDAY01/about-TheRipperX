@@ -482,7 +482,7 @@ export default function AboutPage() {
               <div className="absolute -inset-1 bg-gradient-to-r from-red-500 to-orange-500 rounded-lg blur opacity-25"></div>
               <div className="relative bg-gray-900 border border-gray-800 rounded-lg px-12 py-8">
                 <blockquote className="text-2xl md:text-3xl font-light italic mb-4 text-gray-100">
-                  "Simple Doesn't Mean Easy. Fast Doesn't Mean Rushed"
+                  "Action over Intention."
                 </blockquote>
                 <div className="flex items-center justify-center space-x-2">
                   <div className="w-8 h-0.5 bg-gradient-to-r from-red-500 to-orange-500"></div>
