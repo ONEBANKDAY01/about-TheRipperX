@@ -361,15 +361,15 @@ export default function AboutPage() {
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div className="flex items-center space-x-3 p-4 bg-gray-800/50 rounded-lg border border-gray-700">
                       <Facebook className="w-6 h-6 text-blue-500" />
-                      <span className="text-gray-300">Bank euu</span>
+                      <span className="text-gray-300">......</span>
                     </div>
                     <div className="flex items-center space-x-3 p-4 bg-gray-800/50 rounded-lg border border-gray-700">
                       <Instagram className="w-6 h-6 text-pink-500" />
-                      <span className="text-gray-300">faq.ba.nkk</span>
+                      <span className="text-gray-300">......</span>
                     </div>
                     <div className="flex items-center space-x-3 p-4 bg-gray-800/50 rounded-lg border border-gray-700 sm:col-span-2">
                       <MessageSquareText className="w-6 h-6 text-green-500" />
-                      <span className="text-gray-300">faqbank2548 (ติดต่อทำเว็บไซต์เเละติดตังโปรเเกรมต่างๆ)</span>
+                      <span className="text-gray-300">......</span>
                     </div>
                   </div>
                 </div>
